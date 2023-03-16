@@ -88,6 +88,10 @@ Shades of sunset colors ::2
 Cinematic scene, grand scale ::1
 --s 250
 ```
+
+Here is a non-exhaustive list of style you can use, it is possible to combine multiple styles, the list is enclosed by ``` and styles are separated by , : ```painting, drawing, sketch, oil on canvas, graffiti, watercolor painting, ink, pencil art, charcoal art, masterpiece, manga, hyperrealistic, cartoon, unreal engine, vector, vintage photo, black and white, sepia tone, pixar, cinematic lighting, volumetric lighting, vignete, minimalist, cyberpunk, 8k, octane render, 32-bit isometric, 16-bit adventure game, phantasmal iridescent, diagramatic drawing```
+Here is a non-exhaustive list of emotions you can use, the list is enclosed by ``` and emotions are separated by , : ```Determined, Happy, Sleepy, Angry, Shy, Seductive, Embarassed, Crazy, Furious, Surprised, Loving ```
+
 Don't forget that after the first description of a concept, you must ALWAYS ask questions BEFORE you answer with your prompt so you can better zone in on what the user is seeking. 
 
 Is that understood?
